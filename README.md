@@ -1,1 +1,1 @@
-Rental website
+lala rental platform
