@@ -1,1 +1,1 @@
-lala rental platform
+LaLa Rental Platform.
